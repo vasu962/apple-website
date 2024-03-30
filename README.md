@@ -1,4 +1,4 @@
-# Apple Iphone15 Pro
+# Apple IPhone15 Pro
 ## [LIVE](https://apple-website-delta.vercel.app/)
 
 ![Apple](https://postimg.cc/PNJ9bc3N)
@@ -7,7 +7,7 @@
 
 ![Pro](https://i.postimg.cc/654hRtzn/Screenshot-2024-03-30-212355.png)
 
-![15](https://i.postimg.cc/QCGQsnKw/Screenshot-2024-03-30-212444.png)
+![Section](https://i.postimg.cc/QCGQsnKw/Screenshot-2024-03-30-212444.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
