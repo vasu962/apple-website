@@ -1,7 +1,7 @@
 # Apple IPhone15 Pro
 ## [LIVE](https://apple-website-delta.vercel.app/)
 
-![Apple](https://postimg.cc/PNJ9bc3N)
+![Apple](https://i.postimg.cc/ncMbPSsv/Screenshot-2024-03-30-212154.png)
 
 ![IPhone](https://i.postimg.cc/wMfbB2qz/Screenshot-2024-03-30-212221.png)
 
